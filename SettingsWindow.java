@@ -1,3 +1,4 @@
+//settings
 package ru.geekbrains.gui;
 
 import javax.swing.*;
